@@ -1,5 +1,5 @@
 #ifndef GENERAL_H_
-#define GENRAL_H_
+#define GENERAL_H_
 
 #define NGAN_PHAN_TU_CSV ","
 #define MAX_HEADER_LENGTH 900
